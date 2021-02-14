@@ -1,6 +1,6 @@
-# ID Agile
+# ID 
 
-ID Agile is a healthcare solution which seeks to reduce patients waiting time (at hospitals queue). Our clients are the health insurance companies and the users are the patients. 
+ID Health-Care is a healthcare solution which seeks to reduce patients waiting time (at hospitals queue). Our clients are the health insurance companies and the users are the patients. 
 
 The patient types what he is feeling on our app (e.g. "My chests hurts" or "I have a knee pain when i walk a lot") and then via Natural Language Processing the symptoms are classified into a medical specialty (e.g. "Orthopedist" or "Gastroenterologist"). The app also gathers information such as patients location. The classification will be compared to a database of hospitals and the closest one that has physicians from that specialty will be indicated. 
 
